@@ -1,4 +1,4 @@
-require_relative '../lib/mastermind_game_cli/checker'
+require_relative '../lib/mastermind_game_cli'
 
 describe 'Checker.check' do
 

@@ -1,4 +1,4 @@
-require_relative '../lib/mastermind_game_cli/sequence'
+require_relative '../lib/mastermind_game_cli'
 
 describe 'Sequencer' do
   it 'Starts a new sequence' do

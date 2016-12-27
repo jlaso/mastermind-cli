@@ -1,4 +1,4 @@
-require_relative '../lib/mastermind_game_cli/guess'
+require_relative '../lib/mastermind_game_cli'
 
 describe 'Guess' do
   it 'Dumb test' do
